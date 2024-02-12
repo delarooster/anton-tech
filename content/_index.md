@@ -3,7 +3,7 @@
 toc: false
 ---
 
-![Anton Tech Logo](/images/anton_tech.jpeg)
+![Anton Tech Logo](/images/anton_tech_logo.svg)
 
 ## Explore
 

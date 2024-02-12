@@ -50,7 +50,7 @@ params:
     displayTitle: true
     displayLogo: true
     logo:
-      path: images/anton_tech_image.png
+      path: images/anton_tech_icon.svg
       link: /
       width: 60
       height: 20
