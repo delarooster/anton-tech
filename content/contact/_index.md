@@ -4,7 +4,7 @@
 
 We're always excited to hear from you! Whether you have a question, a project in mind, or just want to say hi, here's how you can reach us:
 
-- **Email**: [admin@anton-tech.com](mailto:admin@anton-tech.com)  
+- **Email**: [contact@anton-tech.com](mailto:contact@anton-tech.com)  
   Reach out directly to our team through email for inquiries, support, or feedback.
 
 - **Time Zone**: Eastern Standard Time (EST) | UTC -5  
