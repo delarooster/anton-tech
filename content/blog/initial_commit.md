@@ -2,7 +2,7 @@
 title: Initial commit
 type: blog
 date: 2024-07-01
-prev: blog/conainer_apps-private_networking.md
+prev: blog/container_apps-private_networking.md
 next: /
 ---
 
