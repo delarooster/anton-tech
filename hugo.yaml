@@ -60,5 +60,5 @@ params:
     displayPoweredBy: false
 
   editURL:
-    enable: true
+    enable: false
     base: "https://github.com/delarooster/anton-tech/edit/main/content"

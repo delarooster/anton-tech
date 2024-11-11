@@ -1,8 +1,9 @@
 ---
 title: Initial commit
 type: blog
-prev: /
-next: blog/conainer_apps-private_networking.md
+date: 2024-07-01
+prev: blog/conainer_apps-private_networking.md
+next: /
 ---
 
 # Welcome to Our Azure Adventure! 🚀
