@@ -2,7 +2,7 @@
 title: Initial commit
 type: blog
 prev: /
-next: blog/folder/
+next: blog/conainer_apps-private_networking.md
 ---
 
 # Welcome to Our Azure Adventure! 🚀
