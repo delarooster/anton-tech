@@ -36,7 +36,7 @@ menu:
         type: search
     - name: GitHub
       weight: 6
-      url: "https://github.com/delarooster"
+      url: "https://github.com/Anton-Tech-LLC"
       params:
         icon: github
 

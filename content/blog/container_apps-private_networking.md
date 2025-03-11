@@ -4,7 +4,7 @@ title: Azure Container Apps and Private Networking
 type: blog
 date: 2024-11-11
 prev: blog/initial_commit.md
-next: blog/inital_commit.md
+next: blog/dont-bake-app-settings.md
 ---
 
 # Introduction
