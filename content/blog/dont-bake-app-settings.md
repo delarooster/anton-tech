@@ -4,7 +4,7 @@ title: 'The Docker Configuration Anti-Pattern'
 type: blog
 date: 2025-03-11
 prev: blog/container_apps-private_networking.md
-next: blog/initial_commit.md
+next: blog/docker_private_azdo_feeds.md
 ---
 
 # A DevOps Detective Story
